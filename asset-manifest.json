@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactjs-myprofile/static/css/main.a823835d.css",
+    "main.js": "/reactjs-myprofile/static/js/main.29ab8121.js",
+    "static/media/shinyonaika.webp": "/reactjs-myprofile/static/media/shinyonaika.63f24599cedbd0bc7a73.webp",
+    "static/media/react.png": "/reactjs-myprofile/static/media/react.a0f1991fd206fa344f49.png",
+    "static/media/github.png": "/reactjs-myprofile/static/media/github.636c8b381caf9cb35a68.png",
+    "static/media/nodejs.png": "/reactjs-myprofile/static/media/nodejs.8304cde3cc777adef5d3.png",
+    "static/media/php.png": "/reactjs-myprofile/static/media/php.a20ab5cb82db5aa52b57.png",
+    "static/media/mysql.png": "/reactjs-myprofile/static/media/mysql.5d71bc82ce0c41291d8b.png",
+    "static/media/python.png": "/reactjs-myprofile/static/media/python.c16939517a7a3dd49fa5.png",
+    "static/media/javascript.png": "/reactjs-myprofile/static/media/javascript.cc8ffa7b9d0377d7a316.png",
+    "static/media/full-stack.svg": "/reactjs-myprofile/static/media/full-stack.43a53a0f18aba5cf39b02b74880e0ce7.svg",
+    "static/media/logo.webp": "/reactjs-myprofile/static/media/logo.21dd91a811953a97d172.webp",
+    "index.html": "/reactjs-myprofile/index.html",
+    "main.a823835d.css.map": "/reactjs-myprofile/static/css/main.a823835d.css.map",
+    "main.29ab8121.js.map": "/reactjs-myprofile/static/js/main.29ab8121.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a823835d.css",
+    "static/js/main.29ab8121.js"
+  ]
+}
