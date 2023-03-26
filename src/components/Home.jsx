@@ -4,7 +4,7 @@ import {Link} from 'react-scroll';
 import { FaGithub, FaLinkedin, } from 'react-icons/fa';
 import {BsFillPersonLinesFill} from 'react-icons/bs';
 import { HiOutlineMail } from 'react-icons/hi';
-import myresume from '../assets/myresume.pdf';
+
 
 
 const Home = () => {
